@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_layout_newsletter_forms",
+  "info": {
+    "displayName": "newsletterForm"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "required": true
+    },
+    "subheding": {
+      "type": "text",
+      "required": false
+    }
+  }
+}
